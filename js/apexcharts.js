@@ -14,7 +14,7 @@
 
     if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") {
       _typeof = function (obj) {
-        return typeof obj;
+        return typeof obj;  
       };
     } else {
       _typeof = function (obj) {

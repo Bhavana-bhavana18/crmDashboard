@@ -19,7 +19,7 @@ $(function() {
           name: 'New User',
           value: 'new'
         }
-      ];
+      ] ;
     setTimeout(function() {
 		
 	var fake = [

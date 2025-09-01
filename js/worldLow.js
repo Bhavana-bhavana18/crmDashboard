@@ -14,6 +14,7 @@
  *
  * If in doubt, contact amCharts at contact@amcharts.com
  *
+ * 
  * PLEASE DO NOT REMOVE THIS COPYRIGHT NOTICE.
  * @hidden
  */

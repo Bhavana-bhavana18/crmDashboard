@@ -49,6 +49,7 @@ throw new Error('template requires jQuery')
     fixed         : 'fixed',
     holdTransition: 'hold-transition'
   }
+  
 
   var Layout = function (options) {
     this.options      = options
